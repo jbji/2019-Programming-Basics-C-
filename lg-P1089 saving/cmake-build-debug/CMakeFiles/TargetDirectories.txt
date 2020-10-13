@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/lg-P1089 saving/cmake-build-debug/CMakeFiles/lg_P1089_saving.dir
+C:/Users/jbji/CLionProjects/lg-P1089 saving/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/lg-P1089 saving/cmake-build-debug/CMakeFiles/rebuild_cache.dir

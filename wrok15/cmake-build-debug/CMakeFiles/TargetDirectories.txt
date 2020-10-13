@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/wrok15/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/wrok15/cmake-build-debug/CMakeFiles/wrok15.dir
+C:/Users/jbji/CLionProjects/wrok15/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/3-22contestI-c/cmake-build-debug/CMakeFiles/3_22contestI_c.dir
+C:/Users/jbji/CLionProjects/3-22contestI-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/3-22contestI-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

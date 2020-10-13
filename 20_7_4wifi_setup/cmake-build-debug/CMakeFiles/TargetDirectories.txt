@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/20_7_4wifi_setup/cmake-build-debug/CMakeFiles/20_7_4wifi_setup.dir
+C:/Users/jbji/CLionProjects/20_7_4wifi_setup/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/20_7_4wifi_setup/cmake-build-debug/CMakeFiles/rebuild_cache.dir

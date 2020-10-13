@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/56sortcat/cmake-build-debug/CMakeFiles/56sortcat.dir
+C:/Users/jbji/CLionProjects/56sortcat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/56sortcat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

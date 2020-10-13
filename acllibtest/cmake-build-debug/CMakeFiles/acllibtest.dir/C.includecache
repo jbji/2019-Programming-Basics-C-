@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/acllibtest/acllib.h
+Windows.h
+-
+
+C:/Users/jbji/CLionProjects/acllibtest/main.c
+stdio.h
+-
+acllib.h
+C:/Users/jbji/CLionProjects/acllibtest/acllib.h
+

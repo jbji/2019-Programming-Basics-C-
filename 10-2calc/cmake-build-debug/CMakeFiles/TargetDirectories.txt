@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/10-2calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/10-2calc/cmake-build-debug/CMakeFiles/10_2calc.dir
+C:/Users/jbji/CLionProjects/10-2calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/SAMS2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/SAMS2/cmake-build-debug/CMakeFiles/SAMS2.dir
+C:/Users/jbji/CLionProjects/SAMS2/cmake-build-debug/CMakeFiles/edit_cache.dir

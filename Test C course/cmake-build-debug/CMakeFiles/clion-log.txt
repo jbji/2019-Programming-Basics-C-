@@ -1,0 +1,37 @@
+"D:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\jbji\CLionProjects\Test C course"
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Check for working C compiler: D:/Program Files/mingw64/bin/gcc.exe
+-- Check for working C compiler: D:/Program Files/mingw64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: D:/Program Files/mingw64/bin/g++.exe
+-- Check for working CXX compiler: D:/Program Files/mingw64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at D:/Program Files/JetBrains/CLion 2019.2.2/bin/cmake/win/share/cmake-3.15/Modules/ExternalProject.cmake:2410 (message):
+  error: could not find git for clone of googletest
+Call Stack (most recent call first):
+  D:/Program Files/JetBrains/CLion 2019.2.2/bin/cmake/win/share/cmake-3.15/Modules/ExternalProject.cmake:3204 (_ep_add_download_command)
+  CMakeLists.txt:7 (ExternalProject_Add)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/jbji/CLionProjects/Test C course/test-framework/CMakeFiles/CMakeOutput.log".
+mingw32-make.exe: *** No targets specified and no makefile found.  Stop.
+CMake Error at cmake/googletest.cmake:24 (add_subdirectory):
+  The source directory
+
+    C:/Users/jbji/CLionProjects/Test C course/test-framework/googletest-src
+
+  does not contain a CMakeLists.txt file.
+Call Stack (most recent call first):
+  CMakeLists.txt:16 (fetch_googletest)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/jbji/CLionProjects/Test C course/cmake-build-debug/CMakeFiles/CMakeOutput.log".

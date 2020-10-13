@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/ClockAngle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/ClockAngle/cmake-build-debug/CMakeFiles/ClockAngle.dir
+C:/Users/jbji/CLionProjects/ClockAngle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

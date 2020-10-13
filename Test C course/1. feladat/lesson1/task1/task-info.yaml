@@ -1,0 +1,128 @@
+type: edu
+custom_name: task1
+files:
+- name: CMakeLists.txt
+  visible: false
+  text: |-
+    cmake_minimum_required(VERSION 3.15)
+
+    project(global-lesson1-task1)
+
+    set(CMAKE_CXX_STANDARD 14)
+
+    # Files from `./src` directory
+    set(SRC
+            src/task.cpp)
+
+    # Files from `./test` directory
+    set(TEST
+            test/test.cpp)
+
+
+    # Running learner side code
+    add_executable(global-lesson1-task1-run
+            ${SRC})
+
+    # Running tests
+    configure_test_target(global-lesson1-task1-test
+            ${SRC}
+            ${TEST})
+  learner_created: false
+- name: src/task.cpp
+  visible: true
+  placeholders:
+  - offset: 28
+    length: 30
+    placeholder_text: // add vissza a nagyobb szamot
+    initial_state:
+      length: 30
+      offset: 28
+    initialized_from_dependency: false
+    possible_answer: 'return a > b ? a : b;'
+    selected: false
+    status: Unchecked
+  - offset: 104
+    length: 47
+    placeholder_text: // add vissza a tömbben lévő legnagyobb értéket
+    initial_state:
+      length: 47
+      offset: 104
+    initialized_from_dependency: false
+    possible_answer: |-
+      int max = tomb[0];
+          for (int i = 1; i < meret; i++) {
+              if (tomb[i] > max) {
+                  max = tomb[i];
+              }
+          }
+
+          return max;
+    selected: false
+    status: Unchecked
+  - offset: 197
+    length: 30
+    placeholder_text: // add vissza a jegyek átlagát
+    initial_state:
+      length: 30
+      offset: 197
+    initialized_from_dependency: false
+    possible_answer: |-
+      int osszeg = 0;
+          for (int i = 0; i < meret; i++) {
+              osszeg += jegyek[i];
+          }
+
+          return osszeg / (meret + 0.0);
+    selected: true
+    status: Unchecked
+  text: |-
+    int max(int a, int b) {
+        // add vissza a nagyobb szamot
+    }
+
+    int legngyobb(int* tomb, int meret) {
+        // add vissza a tömbben lévő legnagyobb értéket
+    }
+
+    float atlag(int* jegyek, int meret) {
+        // add vissza a jegyek átlagát
+    }
+  learner_created: false
+- name: test/test.cpp
+  visible: false
+  text: |-
+    #include <gtest/gtest.h>
+
+    // Headers of objects that student should implement:
+    int max(int a, int b);
+    int legngyobb(int* tomb, int meret);
+    float atlag(int* jegyek, int meret);
+
+    // Tests:
+    TEST(maxTest, Simple) { // NOLINT(cert-err58-cpp) suppress for initialization static field in generated class
+        ASSERT_EQ(max(1, 2), 2);
+        ASSERT_EQ(max(7, 2), 7);
+        ASSERT_EQ(max(-7, -4), -4);
+    }
+
+    TEST(LegnagyobbTest, Simple) { // NOLINT(cert-err58-cpp) suppress for initialization static field in generated class
+        int tomb1[] = {3, 7, 2, 1, 0};
+        ASSERT_EQ(legngyobb(tomb1, 5), 7);
+        int tomb2[] = {8, 5, 3, 3, 7, 1, -5};
+        ASSERT_EQ(legngyobb(tomb2, 7), 8);
+        int tomb3[] = {-4, -2, -7, -3, -1};
+        ASSERT_EQ(legngyobb(tomb3, 5), -1);
+    }
+
+    TEST(AtlagTest, Simple) { // NOLINT(cert-err58-cpp) suppress for initialization static field in generated class
+        int tomb1[] = {4, 4, 4, 2, 1};
+        ASSERT_EQ(atlag(tomb1, 5), 3);
+        int tomb2[] = {4, 2, 1, 1, 5, 1, 1};
+        ASSERT_EQ((int)(atlag(tomb2, 7) * 100) / 100.0, 2.14);
+        int tomb3[] = {1, 1, 1, 1, 1, 2};
+        ASSERT_EQ((int)(atlag(tomb3, 6) * 100) / 100.0, 1.16);
+    }
+  learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

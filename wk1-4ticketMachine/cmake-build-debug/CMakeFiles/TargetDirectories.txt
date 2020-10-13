@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/wk1-4ticketMachine/cmake-build-debug/CMakeFiles/wk1_4ticketMachine.dir
+C:/Users/jbji/CLionProjects/wk1-4ticketMachine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/wk1-4ticketMachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/IDCARD/cmake-build-debug/CMakeFiles/IDCARD.dir
+C:/Users/jbji/CLionProjects/IDCARD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/IDCARD/cmake-build-debug/CMakeFiles/rebuild_cache.dir

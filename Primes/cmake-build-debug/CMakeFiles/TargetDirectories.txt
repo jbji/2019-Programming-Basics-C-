@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/Primes/cmake-build-debug/CMakeFiles/Primes.dir
+C:/Users/jbji/CLionProjects/Primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/Primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/syr8-15/cmake-build-debug/CMakeFiles/syr8_15.dir
+C:/Users/jbji/CLionProjects/syr8-15/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/syr8-15/cmake-build-debug/CMakeFiles/rebuild_cache.dir

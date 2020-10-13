@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/learning_funcPointer/cmake-build-debug/CMakeFiles/learning_.dir
+C:/Users/jbji/CLionProjects/learning_funcPointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/learning_funcPointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/28nullShape/cmake-build-debug/CMakeFiles/28nullShape.dir
+C:/Users/jbji/CLionProjects/28nullShape/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/28nullShape/cmake-build-debug/CMakeFiles/rebuild_cache.dir

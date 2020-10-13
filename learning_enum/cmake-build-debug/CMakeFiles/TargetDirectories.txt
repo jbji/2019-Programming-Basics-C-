@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/learning_enum/cmake-build-debug/CMakeFiles/learning_enum.dir
+C:/Users/jbji/CLionProjects/learning_enum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/learning_enum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

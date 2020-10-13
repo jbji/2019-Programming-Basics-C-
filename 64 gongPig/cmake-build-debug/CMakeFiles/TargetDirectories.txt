@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/64 gongPig/cmake-build-debug/CMakeFiles/64_gongPig.dir
+C:/Users/jbji/CLionProjects/64 gongPig/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/64 gongPig/cmake-build-debug/CMakeFiles/rebuild_cache.dir

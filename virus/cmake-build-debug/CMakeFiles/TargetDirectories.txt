@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/virus/cmake-build-debug/CMakeFiles/virus.dir
+C:/Users/jbji/CLionProjects/virus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/virus/cmake-build-debug/CMakeFiles/rebuild_cache.dir

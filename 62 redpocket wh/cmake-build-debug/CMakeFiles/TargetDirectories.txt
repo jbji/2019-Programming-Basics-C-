@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/62 redpocket wh/cmake-build-debug/CMakeFiles/62_redpocket_wh.dir
+C:/Users/jbji/CLionProjects/62 redpocket wh/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/62 redpocket wh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

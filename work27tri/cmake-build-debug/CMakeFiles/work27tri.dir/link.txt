@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\work27tri.dir/objects.a
+"D:\Program Files\mingw64\bin\ar.exe" cr CMakeFiles\work27tri.dir/objects.a @CMakeFiles\work27tri.dir\objects1.rsp
+"D:\Program Files\mingw64\bin\gcc.exe" -g   -Wl,--whole-archive CMakeFiles\work27tri.dir/objects.a -Wl,--no-whole-archive  -o work27tri.exe -Wl,--out-implib,libwork27tri.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\work27tri.dir\linklibs.rsp

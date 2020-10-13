@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/52-2loopText/cmake-build-debug/CMakeFiles/52_2loopText.dir
+C:/Users/jbji/CLionProjects/52-2loopText/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/52-2loopText/cmake-build-debug/CMakeFiles/rebuild_cache.dir

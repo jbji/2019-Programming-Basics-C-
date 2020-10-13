@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/1-8sort/cmake-build-debug/CMakeFiles/1_8sort.dir
+C:/Users/jbji/CLionProjects/1-8sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/1-8sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

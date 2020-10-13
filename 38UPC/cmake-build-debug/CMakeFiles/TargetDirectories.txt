@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/38UPC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/38UPC/cmake-build-debug/CMakeFiles/38UPC.dir
+C:/Users/jbji/CLionProjects/38UPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/tanchisheSnake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/tanchisheSnake/cmake-build-debug/CMakeFiles/tanchisheSnake.dir
+C:/Users/jbji/CLionProjects/tanchisheSnake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

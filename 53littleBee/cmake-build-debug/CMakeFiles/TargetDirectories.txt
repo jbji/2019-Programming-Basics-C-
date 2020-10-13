@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/53littleBee/cmake-build-debug/CMakeFiles/53littleBee.dir
+C:/Users/jbji/CLionProjects/53littleBee/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/53littleBee/cmake-build-debug/CMakeFiles/rebuild_cache.dir

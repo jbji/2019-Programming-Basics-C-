@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/rootofnum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/rootofnum/cmake-build-debug/CMakeFiles/rootofnum.dir
+C:/Users/jbji/CLionProjects/rootofnum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

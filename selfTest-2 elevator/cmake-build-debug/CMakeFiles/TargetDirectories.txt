@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/selfTest-2 elevator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/selfTest-2 elevator/cmake-build-debug/CMakeFiles/selfTest_2_elevator.dir
+C:/Users/jbji/CLionProjects/selfTest-2 elevator/cmake-build-debug/CMakeFiles/edit_cache.dir

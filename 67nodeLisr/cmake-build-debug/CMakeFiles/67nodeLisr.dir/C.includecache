@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/67nodeLisr/main.c
+stdio.h
+C:/Users/jbji/CLionProjects/67nodeLisr/stdio.h
+stdlib.h
+C:/Users/jbji/CLionProjects/67nodeLisr/stdlib.h
+

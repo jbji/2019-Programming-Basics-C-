@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/68nodeSort/main.c
+stdio.h
+C:/Users/jbji/CLionProjects/68nodeSort/stdio.h
+stdlib.h
+C:/Users/jbji/CLionProjects/68nodeSort/stdlib.h
+

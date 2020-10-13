@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\clockDisplay.dir/objects.a
+"D:\Program Files\mingw64\bin\ar.exe" cr CMakeFiles\clockDisplay.dir/objects.a @CMakeFiles\clockDisplay.dir\objects1.rsp
+"D:\Program Files\mingw64\bin\G__~1.EXE" -g   -Wl,--whole-archive CMakeFiles\clockDisplay.dir/objects.a -Wl,--no-whole-archive  -o clockDisplay.exe -Wl,--out-implib,libclockDisplay.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\clockDisplay.dir\linklibs.rsp

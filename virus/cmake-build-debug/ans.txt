@@ -1,0 +1,90 @@
+On Day1, Infected:20; Total Death:0 delta=20
+  Death:0
+    Infect :10
+On Day2, Infected:40; Total Death:0 delta=40
+  Death:0
+    Infect :20
+On Day3, Infected:80; Total Death:0 delta=80
+  Death:0
+    Infect :40
+On Day4, Infected:160; Total Death:0 delta=160
+  Death:0
+    Infect :80
+On Day5, Infected:320; Total Death:0 delta=320
+  Death:0
+    Infect :160
+On Day6, Infected:640; Total Death:0 delta=640
+  Death:0
+    Infect :320
+On Day7, Infected:1280; Total Death:10 delta=1270
+  Death:10
+    Infect :640
+On Day8, Infected:2550; Total Death:20 delta=2530
+  Death:10
+    Infect :1270
+On Day9, Infected:5080; Total Death:40 delta=5040
+  Death:20
+    Infect :2530
+On Day10, Infected:10120; Total Death:80 delta=10040
+  Death:40
+    Infect :5040
+On Day11, Infected:20160; Total Death:160 delta=20000
+  Death:80
+    Infect :10040
+On Day12, Infected:40160; Total Death:320 delta=39840
+  Death:160
+    Infect :20000
+On Day13, Infected:80000; Total Death:640 delta=79360
+  Death:320
+    Infect :39840
+On Day14, Infected:159360; Total Death:1280 delta=158080
+  Death:640
+    Infect :79360
+On Day15, Infected:317440; Total Death:2550 delta=314890
+  Death:1270
+    Infect :158080
+On Day16, Infected:632330; Total Death:5080 delta=627250
+  Death:2530
+    Infect :314890
+On Day17, Infected:1259580; Total Death:10120 delta=1249460
+  Death:5040
+    Infect :627250
+On Day18, Infected:2509040; Total Death:20160 delta=2488880
+  Death:10040
+    Infect :1249460
+On Day19, Infected:4997920; Total Death:40160 delta=4957760
+  Death:20000
+    Infect :2488880
+On Day20, Infected:9955680; Total Death:80000 delta=9875680
+  Death:39840
+    Infect :4957760
+On Day21, Infected:12000000; Total Death:159360 delta=11840640
+  Death:79360
+    Infect :2044320
+On Day22, Infected:12000000; Total Death:317440 delta=11682560
+  Death:158080
+    Infect :0
+On Day23, Infected:12000000; Total Death:632330 delta=11367670
+  Death:314890
+    Infect :0
+On Day24, Infected:12000000; Total Death:1259580 delta=10740420
+  Death:627250
+    Infect :0
+On Day25, Infected:12000000; Total Death:2509040 delta=9490960
+  Death:1249460
+    Infect :0
+On Day26, Infected:12000000; Total Death:4997920 delta=7002080
+  Death:2488880
+    Infect :0
+On Day27, Infected:12000000; Total Death:9955680 delta=2044320
+  Death:4957760
+    Infect :0
+On Day28, Infected:12000000; Total Death:12000000 delta=0
+  Death:2044320
+    Infect :0
+On Day29, Infected:12000000; Total Death:12000000 delta=0
+  Death:0
+    Infect :0
+==================================================
+Alive:0
+Infected:12000000; Total Death:12000000

@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/self-Test3 cubicNum/cmake-build-debug/CMakeFiles/self_Test3_cubicNum.dir
+C:/Users/jbji/CLionProjects/self-Test3 cubicNum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/self-Test3 cubicNum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

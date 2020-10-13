@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/18Mother'sDay/cmake-build-debug/CMakeFiles/18Mother_sDay.dir
+C:/Users/jbji/CLionProjects/18Mother'sDay/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/18Mother'sDay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

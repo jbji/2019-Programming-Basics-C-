@@ -1,0 +1,8 @@
+title: Test C course
+language: Hungarian
+summary: teszt
+programming_language: C/C++
+environment: GoogleTest
+content:
+- 1. feladat
+mode: Study

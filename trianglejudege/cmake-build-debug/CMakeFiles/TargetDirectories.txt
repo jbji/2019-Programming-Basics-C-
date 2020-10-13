@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/trianglejudege/cmake-build-debug/CMakeFiles/trianglejudege.dir
+C:/Users/jbji/CLionProjects/trianglejudege/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/trianglejudege/cmake-build-debug/CMakeFiles/rebuild_cache.dir

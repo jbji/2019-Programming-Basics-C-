@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/20_6_10stuMan_origin/cmake-build-debug/CMakeFiles/20_6_10stuMan_origin.dir
+C:/Users/jbji/CLionProjects/20_6_10stuMan_origin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/20_6_10stuMan_origin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

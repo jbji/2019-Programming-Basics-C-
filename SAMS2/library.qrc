@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/lib1">
+        <file>lib1/a.db</file>
+    </qresource>
+</RCC>

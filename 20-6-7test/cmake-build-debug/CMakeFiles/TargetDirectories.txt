@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/20-6-7test/cmake-build-debug/CMakeFiles/20_6_7test.dir
+C:/Users/jbji/CLionProjects/20-6-7test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/20-6-7test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

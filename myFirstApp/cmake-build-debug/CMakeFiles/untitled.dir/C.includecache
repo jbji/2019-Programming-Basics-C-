@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/untitled/Hello_World.c
+stdio.c
+-
+
+C:/Users/jbji/CLionProjects/untitled/addTwoNum.c
+stdio.h
+-
+
+C:/Users/jbji/CLionProjects/untitled/main.c
+stdio.h
+-
+float.h
+-
+

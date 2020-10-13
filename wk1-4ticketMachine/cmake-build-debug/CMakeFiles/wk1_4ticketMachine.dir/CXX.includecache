@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/wk1-4ticketMachine/TicketMachine.cpp
+TicketMachine.h
+C:/Users/jbji/CLionProjects/wk1-4ticketMachine/TicketMachine.h
+iostream
+-
+
+C:/Users/jbji/CLionProjects/wk1-4ticketMachine/TicketMachine.h
+

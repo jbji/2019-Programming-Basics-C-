@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/qiang30_Reloaded/cmake-build-debug/CMakeFiles/qiang30_Reloaded.dir
+C:/Users/jbji/CLionProjects/qiang30_Reloaded/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/qiang30_Reloaded/cmake-build-debug/CMakeFiles/rebuild_cache.dir

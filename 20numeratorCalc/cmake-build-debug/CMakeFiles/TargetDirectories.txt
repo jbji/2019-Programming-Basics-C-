@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/20numeratorCalc/cmake-build-debug/CMakeFiles/20numeratorCalc.dir
+C:/Users/jbji/CLionProjects/20numeratorCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/20numeratorCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

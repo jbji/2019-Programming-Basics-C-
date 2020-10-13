@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/lg-P1089 saving/Jinjin.h
+
+C:/Users/jbji/CLionProjects/lg-P1089 saving/main.cpp
+iostream
+-
+Jinjin.h
+C:/Users/jbji/CLionProjects/lg-P1089 saving/Jinjin.h
+

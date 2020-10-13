@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jbji/CLionProjects/eduscorestatistic/Student.cpp
+Student.h
+C:/Users/jbji/CLionProjects/eduscorestatistic/Student.h
+iostream
+-
+
+C:/Users/jbji/CLionProjects/eduscorestatistic/Student.h
+
